@@ -1,0 +1,4 @@
+train:  /content/yolov5/Riverine/train/images
+val:   /content/yolov5/Riverine/Val/images
+nc: 4
+names: ['Plastic Bag', 'Plastic Waste', 'Plastic Bottle', 'Not Plastic Waste']  # Class names
