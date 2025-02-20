@@ -54,3 +54,7 @@ A Plastic Waste (class 2) is located at `(0.60, 0.70)`, with a width of `0.20` a
 # Training and testing
 The testing reults are shown as below:
 ![download](https://github.com/user-attachments/assets/6f30c35f-8716-4277-88ad-a8d704baa339)
+And the performance can be measured as:
+![results](https://github.com/user-attachments/assets/39c086d2-1bf5-4e04-a65e-6fbcbcbb5591)
+
+
