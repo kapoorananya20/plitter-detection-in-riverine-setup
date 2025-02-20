@@ -51,10 +51,22 @@ This means:
 A Plastic Bag (class 0) is located at `(0.45, 0.55)`, with a width of `0.30` and height of `0.40`.  
 A Plastic Waste (class 2) is located at `(0.60, 0.70)`, with a width of `0.20` and height of `0.30`.  
 
-# Training and testing
-The testing reults are shown as below:
-![download](https://github.com/user-attachments/assets/6f30c35f-8716-4277-88ad-a8d704baa339)
-And the performance can be measured as:
-![results](https://github.com/user-attachments/assets/39c086d2-1bf5-4e04-a65e-6fbcbcbb5591)
+#Testing Results
+The testing results are shown below:  
+
+![Testing Results](https://github.com/user-attachments/assets/6f30c35f-8716-4277-88ad-a8d704baa339)
+
+# Performance Metrics
+The model's performance can be evaluated using the following metrics:  
+
+![Performance Metrics](https://github.com/user-attachments/assets/39c086d2-1bf5-4e04-a65e-6fbcbcbb5591)
+
+These results provide insights into the model’s accuracy, precision, recall, and overall performance.
+
+Now, the whole adapted , methodology can be summarized as:
+![Blank diagram (11)](https://github.com/user-attachments/assets/04804294-c01e-41a2-8d06-2a2383f0b953)
+
+
+
 
 
